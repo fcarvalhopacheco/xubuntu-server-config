@@ -10,6 +10,6 @@
 
 ## Credits
 
-> Thanks to all people who spend their time writing any kind of tutorial 
+> Thanks to everyone who spend their valuable time writing any kind of tutorial 
 
 * [See Credits & References here](https://github.com/fcarvalhopacheco/ubuntu-server-config/blob/main/CREDITS.md)
