@@ -58,3 +58,26 @@
     |Lenovo     |	F8, F10 or F12  |
     |Samsung    |	F2, F12 or Esc  |
     |Toshiba    |	F1              |
+
+4. Once you see your boot menu, use the arrows to pick the Ubuntu media to boot from. For a DVD, the entry will usually have DVD or Optical in the name. USB is usually labeled USB. Then, Your system should start loading the Ubuntu live disc menu.
+
+## Step 4: Booting the USB installer
+
+* [See here for detailed information](https://ubuntu.com/server/docs/install/step-by-step)
+
+1. See below a summary of tasks:
+    
+    + Choose your language
+    + Update the installer (if offered)
+    + Select your keyboard layout
+    + Do not configure networking (the installer attempts to configure wired network interfaces via DHCP, but you can continue without networking if this fails)
+    + Do not configure a proxy or custom mirror unless you have to in your network
+    + For storage, leave “use an entire disk” checked, and choose a disk to install to, then select “Done” on the configuration screen and confirm the install
+    + Enter a username, hostname and password
+    + Just select Done on the SSH and snap screens
+    + You will now see log messages as the install is completed
+    + Select restart when this is complete, and log in using the username and password provided
+
+
+
+
