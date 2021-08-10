@@ -1,6 +1,6 @@
 # CREDITS
 
-* This is a list of people who have contributed somehow to this repository 
+> This is a list of people who have contributed somehow to this repository 
 
 ## STEP 1:
    
