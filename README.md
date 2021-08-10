@@ -1,9 +1,10 @@
 # ubuntu-server-config
 
 > This reposiroty provides some overview about installing and configuring Ubuntu 20.04 Server Edition
+
 > ps. I am installing it on my old ASUS laptop. 
 
-*Thanks to Dejan Tucakob* -see his guide here ---> [Reference](https://phoenixnap.com/kb/install-ubuntu-20-04)
+*Thanks to Dejan Tucakob* : see his guide here ---> [Reference](https://phoenixnap.com/kb/install-ubuntu-20-04)
 
 ------------------------------------------------------
 
@@ -15,8 +16,9 @@
 
 ## Step 2: Create Bootable USB Drive on Windows
 
-* You will need a USB drive with 4GB or more. This process will delete all data on the USB drive. Make sure to backup any existing data on the USB drive.
-* You’ll need to install a third-party utility called Rufus to create a USB bootable drive.
+> You will need a USB drive with 4GB or more. This process will delete all data on the USB drive. Make sure to backup any existing data on the USB drive.
+
+> You’ll need to install a third-party utility called Rufus to create a USB bootable drive.
 
 1. [Download the Rufus utility](https://rufus.ie/en/). Scroll down to the download section and click the link to download the latest version of Rufus.
 2. Run the file once downloaded.
@@ -44,15 +46,15 @@
 
 * The boot menu key may be different depending on your computer manufacturer. Below is a list of common boot keys associated to a brand:
 
-| BRAND     |   KEY             |
-| :-------- | :---------------: | 
-|Asus       |	F8 or Esc       |
-|Acer       |	F12, F9 or Esc  |
-|Compaq     |	F9 or Esc       |
-|Dell       |	F12             |
-|eMachines  |	F12             |
-|Fujitsu    |	F12             |
-|HP         |	F9 or Esc       |
-|Lenovo     |	F8, F10 or F12  |
-|Samsung    |	F2, F12 or Esc  |
-|Toshiba    |	F1              |
+    | BRAND     |   KEY             |
+    | :-------- | :---------------: | 
+    |Asus       |	F8 or Esc       |
+    |Acer       |	F12, F9 or Esc  |
+    |Compaq     |	F9 or Esc       |
+    |Dell       |	F12             |
+    |eMachines  |	F12             |
+    |Fujitsu    |	F12             |
+    |HP         |	F9 or Esc       |
+    |Lenovo     |	F8, F10 or F12  |
+    |Samsung    |	F2, F12 or Esc  |
+    |Toshiba    |	F1              |
