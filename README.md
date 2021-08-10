@@ -1,9 +1,9 @@
 # ubuntu-server-config
 
-* This reposiroty provides some overview about installing and configuring Ubuntu 20.04 Server Edition
-* ps. I am installing it on my old ASUS laptop. 
+> This reposiroty provides some overview about installing and configuring Ubuntu 20.04 Server Edition
+> ps. I am installing it on my old ASUS laptop. 
 
-**Thanks to Dejan Tucakob** -see his guide here ---> [Reference](https://phoenixnap.com/kb/install-ubuntu-20-04)
+*Thanks to Dejan Tucakob* -see his guide here ---> [Reference](https://phoenixnap.com/kb/install-ubuntu-20-04)
 
 ------------------------------------------------------
 
