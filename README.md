@@ -4,13 +4,14 @@
 
 ------------------------------------------------------
 
-##  [Step 1: Download the Install UBUNTU 20.04 SERVER](https://github.com/fcarvalhopacheco/ubuntu-server-config/blob/main/1.how2/1.download-and-install-ubuntu-server.md)
+##  [Step 1: Download & Install UBUNTU 20.04 SERVER](https://github.com/fcarvalhopacheco/ubuntu-server-config/blob/main/1.how2/1.download-and-install-ubuntu-server.md)
 
-##  Step 2: Things to do after installing the Ubuntu SERVER 
+##  [Step 2: Fixing the  WIFI connection ](https://github.com/fcarvalhopacheco/ubuntu-server-config/blob/main/1.how2/2.fix-wifi.md)
+
 ------------------------------------------------------
 
 ## Credits
 
-> Thanks to everyone who spend their valuable time writing any kind of tutorial 
+* Thanks to everyone who spend their valuable time writing any kind of tutorial 
 
 * [See Credits & References here](https://github.com/fcarvalhopacheco/ubuntu-server-config/blob/main/CREDITS.md)
