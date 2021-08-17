@@ -6,12 +6,12 @@
 
 | ID     |  NAME           |   Article       |                                                                                           
 | :----: | :-------------: | :-------------: |
-| 1      |  Dejan Tucakov  |  [How to Install Ubuntu 20.04 LTS Desktop (Focal Fossa)](https://phoenixnap.com/kb/install-ubuntu-20-04)       |
+| 1      | Gary Newell     |  [A Step-By-Step Guide to Installing Xubuntu Linux](https://www.lifewire.com/guide-to-installing-xubuntu-linux-2202075)       |
 
 
    
 
-## STEP 2: 
+## Others: 
 
 | ID     |  NAME            |   Article       |                                                                                           
 | :----: | :-------------:  | :-------------: |
