@@ -4,7 +4,7 @@
 
 ------------------------------------------------------
 
-##  [Step 1: Download & Install XUBUNTU 20.04 SERVER](https://github.com/fcarvalhopacheco/ubuntu-server-config/blob/main/1.how2/1.download-and-install-xubuntu-server.md)
+##  [Step 1: Download & Install XUBUNTU 20.04](https://github.com/fcarvalhopacheco/ubuntu-server-config/blob/main/1.how2/1.download-and-install-xubuntu.md)
 
 ##  [Step 2: Fixing the  WIFI connection ](https://github.com/fcarvalhopacheco/ubuntu-server-config/blob/main/1.how2/2.fix-wifi.md)
 
