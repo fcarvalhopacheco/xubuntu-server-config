@@ -13,11 +13,11 @@
 
 | ID     |  NAME            |   Article       |                                                                                           
 | :----: | :-------------:  | :------------- |
-| 3      | Ted LeRoy        | [Things to do after installing linux server](https://linuxhandbook.com/things-to-do-after-installing-linux-server/) |
-| 4      | Hanif Jetha      | [How to set up ssh key on ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1804) |
-| 5      | Abhishek Prakash | [How to Change the Default SSH Port in Linux Properly and Safely](https://linuxhandbook.com/change-ssh-port/) |
-| 6      | Abhishek Prakash | [Secure Your Linux Server With Fail2Ban](https://linuxhandbook.com/fail2ban-basic/)|
-| 7      | Bobbin Zachariah | [How to Install Logwatch on Ubuntu 20.04](https://linoxide.com/how-to-install-logwatch-on-ubuntu-20-04/)|
+| 1      | Ted LeRoy        | [Things to do after installing linux server](https://linuxhandbook.com/things-to-do-after-installing-linux-server/) |
+| 2      | Hanif Jetha      | [How to set up ssh key on ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1804) |
+| 3      | Abhishek Prakash | [How to Change the Default SSH Port in Linux Properly and Safely](https://linuxhandbook.com/change-ssh-port/) |
+| 4      | Abhishek Prakash | [Secure Your Linux Server With Fail2Ban](https://linuxhandbook.com/fail2ban-basic/)|
+| 5      | Bobbin Zachariah | [How to Install Logwatch on Ubuntu 20.04](https://linoxide.com/how-to-install-logwatch-on-ubuntu-20-04/)|
 
 ## Others: 
 
