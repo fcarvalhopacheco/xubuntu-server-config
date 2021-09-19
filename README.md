@@ -8,6 +8,8 @@
 
 ##  [Step 2: Initial Server Setup ](https://github.com/fcarvalhopacheco/xubuntu-server-config/blob/main/1.how2/2.initial-server-setup.md)
 
+##  [Step 3: Configure your Python enviroment](https://github.com/fcarvalhopacheco/xubuntu-server-config/blob/main/1.how2/3.create-virtualenv.md)
+
 ------------------------------------------------------
 
 ## Credits
